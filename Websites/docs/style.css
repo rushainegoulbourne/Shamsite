@@ -1,0 +1,9 @@
+
+
+<style>
+    #h_nav_bar a { padding:15px; font-weight:bold; float:left; }
+    #h_nav_bar a:link { color:#d0d0d0; background-color:#0000a0; }
+    #h_nav_bar a:visited { color:#c0c0c0; background-color:#0000a0; }
+    #h_nav_bar a:hover { color:#ffffff; background-color:#000060; }
+    #h_nav_bar a:active { color:#f0f0f0; background-color:#00ff00; }
+</style>

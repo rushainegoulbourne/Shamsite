@@ -1,15 +1,9 @@
 ---
-name: "FirstSite"
 title: "Shamar Stewart"
 description: |
-  Department 
-  Department 
-  Virginia Tech
-# site: distill::distill_website
-output:
-  distill::distill_article:
-    includes:
-      after-body: footer.html
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+
 ---
 
 

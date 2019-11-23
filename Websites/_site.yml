@@ -1,14 +1,12 @@
-name: "Websites"
+name: "Websites"  
+title: "Shamar Stewart"
+base_url: https://shamar-stewart.github.io
+description: |
+  Department 
+  Department 
+  Virginia Tech
 output_dir: "."
-base_url: https://stewart-shamar.github.io
-description: | 
-  Scientific and technical writing, native to the web
-#base_url: https://rstudio.github.io/distill 
-#Base (root) URL for the location where the website will be deployed.
-preview: https://rstudio.github.io/distill/images/javascript-d3-preview.png
-
 navbar:
-  title: "Shamar Stewart"
   logo:
     image: images/Shamar_Stewart.jpg
   

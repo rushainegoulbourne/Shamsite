@@ -2,6 +2,8 @@
 title: "Applied Economic Forecasting"
 
 ---
+<!-- <img src="images/forecast.png" style="width:80%; margin-right: 20px" align="left">  -->
+<img src="images/grim-forecast.jpg" style="width:80%; margin-right: 20px" align="left"> 
 
 "Under Construction"
 

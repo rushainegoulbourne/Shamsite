@@ -1,5 +1,6 @@
 name: "Websites"  
 title: "Shamar Stewart"
+base_url: https://shamar-stewart.github.io
 description: |
   Department 
   Department 
@@ -23,10 +24,11 @@ navbar:
     - text: "Resources"
       href: about.html
     - icon: fa-envelope fa-lg #https://fontawesome.com/v4.7.0/icons/
+      #mail: stewartls@vt.edu
     - icon: fa-university fa-lg 
       href: https://vt.edu
     - icon: fab fa-github
-      href: https://github.com/rstudio/distill
+      href: https://github.com/shamar-stewart/forecasting
       
 output: 
   distill::distill_article:

@@ -7,6 +7,6 @@ site: distill::distill_website
 ---
 
 
-<img src="images/Shamar_Stewart.jpg" style="width:40%; margin-right: 20px" align="left"> 
+<img src="images/i-28ZRKxc-X2.jpg" style="width:40%; margin-right: 20px" align="left"> 
 
 <!-- Welcome to my website. In 2019, I graduated from the [University of Alabama](https://manderson.culverhouse.ua.edu/) with a MA and PhD in economics. -->
